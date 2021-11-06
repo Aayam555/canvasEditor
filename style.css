@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  overflow: hidden;
+}
+
+#canvas-section{
+  width: 50vw;
+}
+
+.canvas-text{
+  text-align: center;
+  margin-top: 6px;
+}
+
+hr{
+  margin-bottom: 0;
+}
